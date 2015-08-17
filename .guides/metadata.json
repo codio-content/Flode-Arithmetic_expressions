@@ -1,0 +1,201 @@
+{
+ "sections": [
+  {
+   "id": "f095247f-aac2-7566-84ce-84d015e944a8",
+   "title": "Basic Expressions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Basic-Expressions-f095.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "7637e885-67ab-8d72-f81-1658ae144abd",
+   "title": "Addition",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "addition.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Addition-7637.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "6cc33d18-ee3c-d696-79fe-1a2daee61207",
+   "title": "Subtraction",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "subtraction.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Subtraction-6cc3.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "13fdda78-b50f-228c-51f8-12117fdbd712",
+   "title": "Multiplication",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "multiplication.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiplication-13fd.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "3a937d3c-47e5-a4da-8573-f6c4c4eef627",
+   "title": "Division",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "division.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Division-3a93.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "22277f4c-840d-6e9b-cee-c0b27c0a3d4f",
+   "title": "Remainder",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "remainder.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Remainder-2227.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "9352e472-7d83-ff23-5591-b07fa81c1496",
+   "title": "A*(B+C)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "abc.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A--B-C--9352.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f7193333-35e5-d47c-441b-e00f732e4f68",
+   "title": "A*(B + C/3)",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "abc2.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A--B---C-3--f719.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "c2c5c836-c9-8373-eda1-4557d6c2666f",
+   "title": "Complex challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "complex.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Complex-challenge-c2c5.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "dc07870-63e8-7ed2-5b8-e7f4646a615c",
+   "title": "All done!!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-10-dc07.md",
+   "chapter": false,
+   "reset": []
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
