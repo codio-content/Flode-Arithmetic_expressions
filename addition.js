@@ -1,20 +1,25 @@
+// Load testing framework
+var testing = require('/home/codio/workspace/.guides/test-fw/testing')
 
-// Generate a random number as input0
-inp0 = Math.floor( Math.random() * 100 )
-result = inp0 + 12
+// Set up inputs and expected result
+var a = Math.floor(Math.random() * 100) + 100
+var expected = a + 12
 
-// Load .flode file
-out = testFlode('addition.flode', [inp0])
+// Call chart
+var output = testing.RunGraphWithInputs('addition.flode', [a])
 
-// Call Flode
-out[0] = 111
+// Check for no output
+if (output.length == 0) {
+  console.log('Your chart did not output any results.')
+  process.exit(1)
+}
 
-// Check output
-if (result) {
-  console.log('Well done!!')
-  process.exit(0)
+// Evaluate
+if (output[0] === expected) {
+  console.log('Well done!');
+  process.exit(0);
 }
 else {
-  console.log('You got this wrong! We passed a value in of ' + inp0 + ' and got an output of ' + out0 + ' instead of ' + result + '.')
+  console.log('You got this wrong! We passed a value in of ' + a + ' and got an output of ' + output[0] + ' instead of ' + expected + '.')
   process.exit(1)
 }

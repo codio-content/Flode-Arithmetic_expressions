@@ -1,3 +1,8 @@
-And finally, we will give you a really complicated exmaple to get your teeth into.
+And finally, we will give you a really complicated example to get your teeth into.
 
 {Check It!|assessment}(test-3939701465)
+
+|||guidance
+### Solution
+![](solutions/complex.png)
+|||

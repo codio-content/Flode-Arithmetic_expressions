@@ -1,21 +1,29 @@
+// Load testing framework
+var testing = require('/home/codio/workspace/.guides/test-fw/testing')
 
-// Generate a random number as input0
-inp0 = Math.floor( Math.random() * 100 )
-inp1 = Math.floor( Math.random() * 100 )
-result = inp0 / inp1
-result = result.toFixed(3)
+// Set up inputs and expected result
+var a = Math.floor(Math.random() * 10 )
+var b = Math.floor(Math.random() * 10 )
+var expected = a / b
+expected = expected.toFixed(3)
 
-// Call Flode
-out0 = 111
-out0 = out0.toFixed(3)
+// Call chart
+var output = testing.RunGraphWithInputs('division.flode', [a, b])
 
-
-// Check output
-if (out0 == result) {
-  console.log('Well done!!')
-  process.exit(0)
-}
-else {
-  console.log('You got this wrong! We passed values of ' + inp0 + ' and ' + inp1 + ' and got an output of ' + out0 + ' instead of ' + result + '.')
+// Check for no output
+if (output.length == 0) {
+  console.log('Your chart did not output any results.')
   process.exit(1)
 }
+
+// Evaluate
+output[0] = output[0].toFixed(3)
+if (output[0] === expected) {
+  console.log('Well done!');
+  process.exit(0);
+}
+else {
+  console.log('You got this wrong! We passed in ' + a + ' and ' + b + ' and got an output of ' + output[0] + ' instead of ' + expected + '.')
+  process.exit(1)
+}
+

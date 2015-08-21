@@ -17,3 +17,8 @@ input0 % 6
 Take note of this for the challenge below.
 
 {Check It!|assessment}(test-3167907513)
+
+|||guidance
+### Solution
+![](solutions/remainder.png)
+|||
