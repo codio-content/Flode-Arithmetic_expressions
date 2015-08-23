@@ -2,19 +2,19 @@ Let's take the following example ...
 
 $$ \dfrac {20}{6} = 3 \space remainder \space 2 $$
 
-In Flode, let's say you have a variable `X` and you want to divide it by `6`. You write this as
+In Flode, you would find the remainder of 20 divided by 6 like this.
 
 ```javascript
-X % 6
+20 % 6
 ```
 
-Let's say that instead of `X` we use an input. In this case, we would write it as 
+Let's say that instead of `20` we used an input. In this case, we would write it as 
 
 ```javascript
 input0 % 6
 ```
 
-Take note of this for the challenge below.
+Armed with this information, try this challenge.
 
 {Check It!|assessment}(test-3167907513)
 

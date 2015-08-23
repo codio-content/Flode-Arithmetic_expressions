@@ -13,8 +13,10 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Basic-Expressions-f095.md",
-   "chapter": false,
-   "reset": []
+   "chapter": true,
+   "reset": [
+    "1-intro"
+   ]
   },
   {
    "id": "9f92be01-1654-c45e-1a88-cc7626008c40",
@@ -22,8 +24,61 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-11-9f92.md",
+   "content-file": ".guides/content/Making-room--9f92.md",
    "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "dd191088-8744-bbc4-6b6e-70ec2af6d8c5",
+   "title": "Editing reminder",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Editing-reminder-dd19.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "a7e4c0a9-2cce-c985-179-ef6f3c19ea9d",
+   "title": "Inputs & running reminder",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-reminder/io.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inputs---running-reminder-a7e4.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "ed5da15d-543-c12f-dda4-499dcc708c60",
+   "title": "Challenges",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenges-ed5d.md",
+   "chapter": true,
    "reset": []
   },
   {
