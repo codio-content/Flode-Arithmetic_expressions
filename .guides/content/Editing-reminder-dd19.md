@@ -1,4 +1,4 @@
-On the left is a chart you can play. On the next page we will give you a chart to build.
+On the left is a chart you can play with. On the next page we will give you a chart to build.
 
 In the meantime, here is a reference list and video of the things you should be comfortable with. This will help you work a lot faster later on.
 

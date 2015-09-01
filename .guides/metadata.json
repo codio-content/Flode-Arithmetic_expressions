@@ -2,21 +2,31 @@
  "sections": [
   {
    "id": "f095247f-aac2-7566-84ce-84d015e944a8",
-   "title": "Basic Expressions",
+   "title": "Arithmetic Expressions",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Basic-Expressions-f095.md",
+   "content-file": ".guides/content/Arithmetic-Expressions-f095.md",
    "chapter": true,
    "reset": [
     "1-intro"
    ]
+  },
+  {
+   "id": "8aa9d6da-13d1-e4ea-5dff-5c8c2604872e",
+   "title": "Preparation video",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparation-video-8aa9.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "9f92be01-1654-c45e-1a88-cc7626008c40",
@@ -35,9 +45,14 @@
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "1-reminder/play.flode",
+     "panel": 0,
+     "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Editing-reminder-dd19.md",
@@ -63,6 +78,58 @@
    "type": "markdown",
    "content-file": ".guides/content/Inputs---running-reminder-a7e4.md",
    "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "f1141d45-b3f9-730b-a23d-83dcfd2a6852",
+   "title": "Undo and Redo",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Undo-and-Redo-f114.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "52d24df-289b-d5f1-deb9-84597184321",
+   "title": "Experiment chart",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "experiment.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Experiment-chart-52d2.md",
+   "chapter": false,
+   "reset": []
+  },
+  {
+   "id": "338dcadf-3400-8fd0-b9ae-845472d87be",
+   "title": "Preparing for challenges",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "1-reminder/example-expression.flode",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Preparing-for-challenges-338d.md",
+   "chapter": true,
    "reset": []
   },
   {
@@ -95,7 +162,7 @@
      "action": "open"
     }
    ],
-   "layout": "2-panels-tree",
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Addition-7637.md",

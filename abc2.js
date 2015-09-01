@@ -5,10 +5,12 @@ var testing = require('/home/codio/workspace/.guides/test-fw/testing')
 var a = Math.floor(Math.random() * 10 )
 var b = Math.floor(Math.random() * 10 )
 var c = Math.floor(Math.random() * 10 )
-var expected = a * (b + c/3)
+res = a * (b + c/3)
+var expected = Math.round(res*1000)/1000
 
 // Call chart
 var output = testing.RunGraphWithInputs('abc2.flode', [a, b, c])
+output[0] = Math.round(output[0]*1000)/1000
 
 // Check for no output
 if (output.length == 0) {
