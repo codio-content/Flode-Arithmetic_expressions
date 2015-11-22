@@ -16,7 +16,9 @@ You will also find an instruction ...
 ## Inputs
 Where we specify inputs, you should have one or more input boxes at the start of your chart. 
 
-The example on the left has 2 inputs, but many have only 1. For each input expected, be sure to have an individual input. The first one will be labelled `input0`, the second `input1` etc.
+The example on the left has 2 inputs, but many have only 1. For each input expected, be sure to have an individual input.  If more than one input is expected, remember that the order is important.  It will be specified in the challenge.
+
+For example, if you have to calculate the expression `a - b` and the challenge is giving you `a` first then `b`, make sure your flode chart connects `a` before `b`.  Otherwise, you will get the wrong answer.
 
 ## Outputs
 Where we specify outputs (in most cases the challenge expects just one output but there could be more), be sure to use the Output block as shown in the Flode chart on the left.
