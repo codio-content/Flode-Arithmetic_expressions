@@ -16,7 +16,8 @@
    "chapter": true,
    "reset": [
     "1-intro"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "8aa9d6da-13d1-e4ea-5dff-5c8c2604872e",
@@ -26,7 +27,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Preparation-video-8aa9.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9f92be01-1654-c45e-1a88-cc7626008c40",
@@ -36,7 +38,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Making-room--9f92.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dd191088-8744-bbc4-6b6e-70ec2af6d8c5",
@@ -57,7 +60,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Editing-reminder-dd19.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "a7e4c0a9-2cce-c985-179-ef6f3c19ea9d",
@@ -78,7 +82,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Inputs---running-reminder-a7e4.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f1141d45-b3f9-730b-a23d-83dcfd2a6852",
@@ -88,7 +93,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Undo-and-Redo-f114.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "52d24df-289b-d5f1-deb9-84597184321",
@@ -109,7 +115,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Experiment-chart-52d2.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "338dcadf-3400-8fd0-b9ae-845472d87be",
@@ -130,7 +137,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Preparing-for-challenges-338d.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "ed5da15d-543-c12f-dda4-499dcc708c60",
@@ -146,7 +154,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenges-ed5d.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "7637e885-67ab-8d72-f81-1658ae144abd",
@@ -167,7 +176,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Addition-7637.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6cc33d18-ee3c-d696-79fe-1a2daee61207",
@@ -188,7 +198,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Subtraction-6cc3.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "13fdda78-b50f-228c-51f8-12117fdbd712",
@@ -209,7 +220,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Multiplication-13fd.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "3a937d3c-47e5-a4da-8573-f6c4c4eef627",
@@ -230,7 +242,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Division-3a93.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "22277f4c-840d-6e9b-cee-c0b27c0a3d4f",
@@ -251,7 +264,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Remainder-2227.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9352e472-7d83-ff23-5591-b07fa81c1496",
@@ -272,7 +286,8 @@
    "type": "markdown",
    "content-file": ".guides/content/A--B-C--9352.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f7193333-35e5-d47c-441b-e00f732e4f68",
@@ -293,7 +308,8 @@
    "type": "markdown",
    "content-file": ".guides/content/A--B---C-3--f719.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c2c5c836-c9-8373-eda1-4557d6c2666f",
@@ -314,7 +330,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Complex-challenge-c2c5.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "dc07870-63e8-7ed2-5b8-e7f4646a615c",
@@ -324,7 +341,27 @@
    "type": "markdown",
    "content-file": ".guides/content/All-done---dc07.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e8274f53-9f3b-b67a-66fb-685d88b5c63b",
+   "title": "Teacher complete solutions",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "2-panels-tree",
+   "path": [
+    "solutions"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/All-solutions-e827.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": true
   }
  ],
  "theme": "light",
