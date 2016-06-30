@@ -1,0 +1,130 @@
+[
+ {
+  "type": "test",
+  "taskId": "test-1007634493",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Multiplication",
+   "instructions": "You are given 2 inputs. You should output the *product* of these 2 inputs (where *product* means the numbers multiplied together).\n\n\n",
+   "command": "node multiplication.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-1162990053",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Division",
+   "instructions": "You are provided with 2 inputs. Divide the first input by the second and output the result.",
+   "command": "node division.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-134797268",
+  "source": {
+   "showName": false,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Addition",
+   "instructions": "Your chart should expect one input. All you need to do is add 12 to it and output the result.\n\n",
+   "command": "node addition.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3167907513",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Remainder",
+   "instructions": "We will provide you with 2 inputs. You should output the remainder of the first input divided by the second input.",
+   "command": "node remainder.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3311654664",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Subtraction",
+   "instructions": "Subtract the second input from the first and output the result.",
+   "command": "node subtraction.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3498605084",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "A*(B+C)",
+   "instructions": "We pass in three inputs, $ A $, $ B $ and $ C $.\n\nYou should output $ A * (B + C) $.",
+   "command": "node abc.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3726953814",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "A*(B + C/3)",
+   "instructions": "We pass in three inputs, $ A $, $ B $ and $ C $.\n\nYou should output $ A * (B + \\frac{C}{3}) $.",
+   "command": "node abc2.js",
+   "points": 1
+  }
+ },
+ {
+  "type": "test",
+  "taskId": "test-3939701465",
+  "source": {
+   "showName": true,
+   "answers": [],
+   "tokens": {
+    "blank": [],
+    "text": []
+   },
+   "name": "Complex expression",
+   "instructions": "We pass in three inputs, $ A $, $ B $ and $ C $.\n\nYou should output $ (A +C) * (\\frac{B}{A} + \\frac{C}{3}) $.",
+   "command": "node complex.js",
+   "points": 1
+  }
+ }
+]
