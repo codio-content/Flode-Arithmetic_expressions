@@ -1,0 +1,125 @@
+{
+ "name": "Flode-Arithmetic_expressions",
+ "children": [
+  {
+   "title": "Arithmetic Expressions",
+   "id": "f095247f-aac2-7566-84ce-84d015e944a8",
+   "pageId": "f095247f-aac2-7566-84ce-84d015e944a8",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Preparation video",
+     "id": "8aa9d6da-13d1-e4ea-5dff-5c8c2604872e",
+     "pageId": "8aa9d6da-13d1-e4ea-5dff-5c8c2604872e",
+     "type": "page"
+    },
+    {
+     "title": "Making room ",
+     "id": "9f92be01-1654-c45e-1a88-cc7626008c40",
+     "pageId": "9f92be01-1654-c45e-1a88-cc7626008c40",
+     "type": "page"
+    },
+    {
+     "title": "Editing reminder",
+     "id": "dd191088-8744-bbc4-6b6e-70ec2af6d8c5",
+     "pageId": "dd191088-8744-bbc4-6b6e-70ec2af6d8c5",
+     "type": "page"
+    },
+    {
+     "title": "Inputs & running reminder",
+     "id": "a7e4c0a9-2cce-c985-179-ef6f3c19ea9d",
+     "pageId": "a7e4c0a9-2cce-c985-179-ef6f3c19ea9d",
+     "type": "page"
+    },
+    {
+     "title": "Undo and Redo",
+     "id": "f1141d45-b3f9-730b-a23d-83dcfd2a6852",
+     "pageId": "f1141d45-b3f9-730b-a23d-83dcfd2a6852",
+     "type": "page"
+    },
+    {
+     "title": "Experiment chart",
+     "id": "52d24df-289b-d5f1-deb9-84597184321",
+     "pageId": "52d24df-289b-d5f1-deb9-84597184321",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Preparing for challenges",
+   "id": "338dcadf-3400-8fd0-b9ae-845472d87be",
+   "pageId": "338dcadf-3400-8fd0-b9ae-845472d87be",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Challenges",
+   "id": "ed5da15d-543-c12f-dda4-499dcc708c60",
+   "pageId": "ed5da15d-543-c12f-dda4-499dcc708c60",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Addition",
+     "id": "7637e885-67ab-8d72-f81-1658ae144abd",
+     "pageId": "7637e885-67ab-8d72-f81-1658ae144abd",
+     "type": "page"
+    },
+    {
+     "title": "Subtraction",
+     "id": "6cc33d18-ee3c-d696-79fe-1a2daee61207",
+     "pageId": "6cc33d18-ee3c-d696-79fe-1a2daee61207",
+     "type": "page"
+    },
+    {
+     "title": "Multiplication",
+     "id": "13fdda78-b50f-228c-51f8-12117fdbd712",
+     "pageId": "13fdda78-b50f-228c-51f8-12117fdbd712",
+     "type": "page"
+    },
+    {
+     "title": "Division",
+     "id": "3a937d3c-47e5-a4da-8573-f6c4c4eef627",
+     "pageId": "3a937d3c-47e5-a4da-8573-f6c4c4eef627",
+     "type": "page"
+    },
+    {
+     "title": "Remainder",
+     "id": "22277f4c-840d-6e9b-cee-c0b27c0a3d4f",
+     "pageId": "22277f4c-840d-6e9b-cee-c0b27c0a3d4f",
+     "type": "page"
+    },
+    {
+     "title": "A*(B+C)",
+     "id": "9352e472-7d83-ff23-5591-b07fa81c1496",
+     "pageId": "9352e472-7d83-ff23-5591-b07fa81c1496",
+     "type": "page"
+    },
+    {
+     "title": "A*(B + C/3)",
+     "id": "f7193333-35e5-d47c-441b-e00f732e4f68",
+     "pageId": "f7193333-35e5-d47c-441b-e00f732e4f68",
+     "type": "page"
+    },
+    {
+     "title": "Complex challenge",
+     "id": "c2c5c836-c9-8373-eda1-4557d6c2666f",
+     "pageId": "c2c5c836-c9-8373-eda1-4557d6c2666f",
+     "type": "page"
+    },
+    {
+     "title": "All done!!",
+     "id": "dc07870-63e8-7ed2-5b8-e7f4646a615c",
+     "pageId": "dc07870-63e8-7ed2-5b8-e7f4646a615c",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Teacher complete solutions",
+   "id": "e8274f53-9f3b-b67a-66fb-685d88b5c63b",
+   "pageId": "e8274f53-9f3b-b67a-66fb-685d88b5c63b",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
